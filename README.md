@@ -1,6 +1,6 @@
 # Infinite-Craft Schneller Brüter
 
-This automatically crafts https://neal.fun/infinite-craft/
+This automatically crafts https://neal.fun/infinite-craft/ items.
 
 My favorite crafts:
 ```
@@ -16,6 +16,8 @@ Data provided here are the crafts up to the 3rd generation :) For example:
 
 
 There are two folders: [data](./data) for processing, and [data_hr](./data_hr) for human readable format
+
+[But why?]([https://enryco.xyz/blog/tinker-day/](https://enryco.xyz/blog/tinker-day/))
 
 ## Usage
 
