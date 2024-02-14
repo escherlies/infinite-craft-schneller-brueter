@@ -26,7 +26,7 @@ const craft = async (first: string, second: string) => {
 type DiscoveredPairs = { first: string, second: string, result: string, resultEmoji: string }[]
 const discoveredPairs: DiscoveredPairs = []
 
-const main = async (gen: number) => {
+const getGeneration = async (gen: number) => {
   const gen0 = fs.readFileSync(`data/gen${gen}.json`, 'utf8')
   const elements = JSON.parse(gen0) as { text: string, emoji: string, discovered: boolean }[]
 
@@ -87,23 +87,33 @@ const main = async (gen: number) => {
 
 
 
-function logGenItems(gen: number) {
+const logGenItems = (gen: number) => {
+  // log items
   const gen0 = fs.readFileSync(`data/gen${gen}.json`, 'utf8')
   const elements = JSON.parse(gen0) as { text: string, emoji: string, discovered: boolean }[]
-
+  let genItems = ''
   forEach((e) => {
-    fs.appendFileSync(`data_hr/gen${gen}_items.txt`, `${e.text} ${e.emoji}\n`)
+    genItems += `${e.text} ${e.emoji}\n`
   }, elements)
+  fs.writeFileSync(`data_hr/gen${gen}_items.txt`, genItems)
 
 
   // log crafts
   const gen0Tree = fs.readFileSync(`data/gen${gen}_tree.json`, 'utf8')
   const discoveredPairs = JSON.parse(gen0Tree) as DiscoveredPairs
+  let genCrafts = ''
   forEach((p) => {
-    fs.appendFileSync(`data_hr/gen${gen}_crafts.txt`, `${p.first} + ${p.second} = ${p.result} ${p.resultEmoji}\n`)
+    genCrafts += `${p.first} + ${p.second} = ${p.result} ${p.resultEmoji}\n`
   }, discoveredPairs)
+  fs.writeFileSync(`data_hr/gen${gen}_crafts.txt`, genCrafts)
 }
 
 
+const main = async () => {
+  const gen = Number(process.argv[2]) || 0
+  console.log('Start fetching generation ', gen)
+  await getGeneration(gen)
+}
 
-main(0)
+
+void main()

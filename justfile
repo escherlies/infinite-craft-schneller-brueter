@@ -1,6 +1,9 @@
 install:
   npm install
 
-run: 
+build:
   npx tsc
-  node ./dist/index.js
+
+# generation: the number of the generation
+run generation: 
+  node ./dist/index.js {{generation}}
