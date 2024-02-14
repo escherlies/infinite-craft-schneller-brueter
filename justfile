@@ -5,5 +5,5 @@ build:
   npx tsc
 
 # generation: the number of the generation
-run generation: 
+run generation: build
   node ./dist/index.js {{generation}}

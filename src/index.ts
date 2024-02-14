@@ -1,3 +1,4 @@
+import { log } from 'console';
 import fs from 'fs';
 import { forEach, map, uniqBy } from "rambda";
 
@@ -103,7 +104,10 @@ const logGenItems = (gen: number) => {
   const discoveredPairs = JSON.parse(gen0Tree) as DiscoveredPairs
   let genCrafts = ''
   forEach((p) => {
-    genCrafts += `${p.first} + ${p.second} = ${p.result} ${p.resultEmoji}\n`
+    const firstEmoji = elements.find((e) => e.text === p.first)?.emoji || ''
+    const secondEmoji = elements.find((e) => e.text === p.second)?.emoji || ''
+    genCrafts += `${p.first} ${firstEmoji} + ${p.second} ${secondEmoji} = ${p.result} ${p.resultEmoji}\n`
+
   }, discoveredPairs)
   fs.writeFileSync(`data_hr/gen${gen}_crafts.txt`, genCrafts)
 }
