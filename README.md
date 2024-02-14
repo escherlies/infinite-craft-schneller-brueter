@@ -10,7 +10,12 @@ Lily 🌸 + Seaweed 🌊 = Mermaid 🧜‍♀️
 Engine 🚗 + Pollen 🌱 = Bee 🐝
 ```
 
-Data provided here are the crafts up to the 3rd generation :)
+Data provided here are the crafts up to the 3rd generation :) For example: 
+- [3rd Generation Items](./data_hr/gen3_items.txt)
+- [3rd Generation Crafts](./data_hr/gen3_crafts.txt)
+
+
+There are two folders: [data](./data) for processing, and [data_hr](./data_hr) for human readable format
 
 ## Usage
 
