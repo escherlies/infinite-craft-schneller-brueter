@@ -1,0 +1,10 @@
+Water + Water = Lake 🌊
+Water + Fire = Steam 💨
+Water + Wind = Wave 🌊
+Water + Earth = Plant 🌱
+Fire + Fire = Volcano 🌋
+Fire + Wind = Smoke 💨
+Fire + Earth = Lava 🌋
+Wind + Wind = Tornado 🌪️
+Wind + Earth = Dust 🌫️
+Earth + Earth = Mountain 🏔️

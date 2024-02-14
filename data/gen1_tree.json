@@ -1,0 +1,62 @@
+[
+  {
+    "first": "Water",
+    "second": "Water",
+    "result": "Lake",
+    "resultEmoji": "🌊"
+  },
+  {
+    "first": "Water",
+    "second": "Fire",
+    "result": "Steam",
+    "resultEmoji": "💨"
+  },
+  {
+    "first": "Water",
+    "second": "Wind",
+    "result": "Wave",
+    "resultEmoji": "🌊"
+  },
+  {
+    "first": "Water",
+    "second": "Earth",
+    "result": "Plant",
+    "resultEmoji": "🌱"
+  },
+  {
+    "first": "Fire",
+    "second": "Fire",
+    "result": "Volcano",
+    "resultEmoji": "🌋"
+  },
+  {
+    "first": "Fire",
+    "second": "Wind",
+    "result": "Smoke",
+    "resultEmoji": "💨"
+  },
+  {
+    "first": "Fire",
+    "second": "Earth",
+    "result": "Lava",
+    "resultEmoji": "🌋"
+  },
+  {
+    "first": "Wind",
+    "second": "Wind",
+    "result": "Tornado",
+    "resultEmoji": "🌪️"
+  },
+  {
+    "first": "Wind",
+    "second": "Earth",
+    "result": "Dust",
+    "resultEmoji": "🌫️"
+  },
+  {
+    "first": "Earth",
+    "second": "Earth",
+    "result": "Mountain",
+    "resultEmoji": "🏔️"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Water",
+    "emoji": "💧",
+    "discovered": false
+  },
+  {
+    "text": "Fire",
+    "emoji": "🔥",
+    "discovered": false
+  },
+  {
+    "text": "Wind",
+    "emoji": "🌬️",
+    "discovered": false
+  },
+  {
+    "text": "Earth",
+    "emoji": "🌍",
+    "discovered": false
+  },
+  {
+    "text": "Lake",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Steam",
+    "emoji": "💨",
+    "discovered": false
+  },
+  {
+    "text": "Wave",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Plant",
+    "emoji": "🌱",
+    "discovered": false
+  },
+  {
+    "text": "Volcano",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Smoke",
+    "emoji": "💨",
+    "discovered": false
+  },
+  {
+    "text": "Lava",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Tornado",
+    "emoji": "🌪️",
+    "discovered": false
+  },
+  {
+    "text": "Dust",
+    "emoji": "🌫️",
+    "discovered": false
+  },
+  {
+    "text": "Mountain",
+    "emoji": "🏔️",
+    "discovered": false
+  }
+]

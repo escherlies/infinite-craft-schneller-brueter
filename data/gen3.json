@@ -1,0 +1,1002 @@
+[
+  {
+    "text": "Water",
+    "emoji": "💧",
+    "discovered": false
+  },
+  {
+    "text": "Fire",
+    "emoji": "🔥",
+    "discovered": false
+  },
+  {
+    "text": "Wind",
+    "emoji": "🌬️",
+    "discovered": false
+  },
+  {
+    "text": "Earth",
+    "emoji": "🌍",
+    "discovered": false
+  },
+  {
+    "text": "Lake",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Steam",
+    "emoji": "💨",
+    "discovered": false
+  },
+  {
+    "text": "Wave",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Plant",
+    "emoji": "🌱",
+    "discovered": false
+  },
+  {
+    "text": "Volcano",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Smoke",
+    "emoji": "💨",
+    "discovered": false
+  },
+  {
+    "text": "Lava",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Tornado",
+    "emoji": "🌪️",
+    "discovered": false
+  },
+  {
+    "text": "Dust",
+    "emoji": "🌫️",
+    "discovered": false
+  },
+  {
+    "text": "Mountain",
+    "emoji": "🏔️",
+    "discovered": false
+  },
+  {
+    "text": "Ocean",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Cloud",
+    "emoji": "☁️",
+    "discovered": false
+  },
+  {
+    "text": "Tsunami",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Swamp",
+    "emoji": "🐊",
+    "discovered": false
+  },
+  {
+    "text": "Fog",
+    "emoji": "🌫️",
+    "discovered": false
+  },
+  {
+    "text": "Stone",
+    "emoji": "🪨",
+    "discovered": false
+  },
+  {
+    "text": "Mud",
+    "emoji": "💩",
+    "discovered": false
+  },
+  {
+    "text": "Engine",
+    "emoji": "🚗",
+    "discovered": false
+  },
+  {
+    "text": "Ash",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Storm",
+    "emoji": "⛈️",
+    "discovered": false
+  },
+  {
+    "text": "Dandelion",
+    "emoji": "🌼",
+    "discovered": false
+  },
+  {
+    "text": "Eruption",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Sandstorm",
+    "emoji": "🌪️",
+    "discovered": false
+  },
+  {
+    "text": "Avalanche",
+    "emoji": "🌨️",
+    "discovered": false
+  },
+  {
+    "text": "Sand",
+    "emoji": "🏖️",
+    "discovered": false
+  },
+  {
+    "text": "Tree",
+    "emoji": "🌳",
+    "discovered": false
+  },
+  {
+    "text": "Planet",
+    "emoji": "🪐",
+    "discovered": false
+  },
+  {
+    "text": "Lily",
+    "emoji": "🌸",
+    "discovered": false
+  },
+  {
+    "text": "Island",
+    "emoji": "🏝️",
+    "discovered": false
+  },
+  {
+    "text": "Fjord",
+    "emoji": "🏞️",
+    "discovered": false
+  },
+  {
+    "text": "Surf",
+    "emoji": "🏄",
+    "discovered": false
+  },
+  {
+    "text": "Tea",
+    "emoji": "🍵",
+    "discovered": false
+  },
+  {
+    "text": "Seaweed",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Incense",
+    "emoji": "🕯️",
+    "discovered": false
+  },
+  {
+    "text": "Pollen",
+    "emoji": "🌱",
+    "discovered": false
+  },
+  {
+    "text": "Hurricane",
+    "emoji": "🌀",
+    "discovered": false
+  },
+  {
+    "text": "Dust Storm",
+    "emoji": "🌪️",
+    "discovered": false
+  },
+  {
+    "text": "Mountain Range",
+    "emoji": "🏔️",
+    "discovered": false
+  },
+  {
+    "text": "Fish",
+    "emoji": "🐟",
+    "discovered": false
+  },
+  {
+    "text": "Rain",
+    "emoji": "🌧️",
+    "discovered": false
+  },
+  {
+    "text": "Marsh",
+    "emoji": "🌿",
+    "discovered": false
+  },
+  {
+    "text": "Ice",
+    "emoji": "❄️",
+    "discovered": false
+  },
+  {
+    "text": "Rock",
+    "emoji": "🪨",
+    "discovered": false
+  },
+  {
+    "text": "Puddle",
+    "emoji": "💦",
+    "discovered": false
+  },
+  {
+    "text": "Wine",
+    "emoji": "🍷",
+    "discovered": false
+  },
+  {
+    "text": "Oasis",
+    "emoji": "🏜️",
+    "discovered": false
+  },
+  {
+    "text": "Beach",
+    "emoji": "🏖️",
+    "discovered": false
+  },
+  {
+    "text": "River",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Pond",
+    "emoji": "🐸",
+    "discovered": false
+  },
+  {
+    "text": "Ship",
+    "emoji": "🚢",
+    "discovered": false
+  },
+  {
+    "text": "Whale",
+    "emoji": "🐳",
+    "discovered": false
+  },
+  {
+    "text": "Kelp",
+    "emoji": "🌿",
+    "discovered": false
+  },
+  {
+    "text": "Perfume",
+    "emoji": "👃",
+    "discovered": false
+  },
+  {
+    "text": "Honey",
+    "emoji": "🍯",
+    "discovered": false
+  },
+  {
+    "text": "Lightning",
+    "emoji": "⚡️",
+    "discovered": false
+  },
+  {
+    "text": "Dragon",
+    "emoji": "🐉",
+    "discovered": false
+  },
+  {
+    "text": "Brick",
+    "emoji": "🧱",
+    "discovered": false
+  },
+  {
+    "text": "Phoenix",
+    "emoji": "🔥",
+    "discovered": false
+  },
+  {
+    "text": "Glass",
+    "emoji": "🥃",
+    "discovered": false
+  },
+  {
+    "text": "Sun",
+    "emoji": "☀️",
+    "discovered": false
+  },
+  {
+    "text": "Chai",
+    "emoji": "🍵",
+    "discovered": false
+  },
+  {
+    "text": "Sushi",
+    "emoji": "🍣",
+    "discovered": false
+  },
+  {
+    "text": "Mist",
+    "emoji": "🌫️",
+    "discovered": false
+  },
+  {
+    "text": "Windmill",
+    "emoji": "🌬️",
+    "discovered": false
+  },
+  {
+    "text": "Seed",
+    "emoji": "🌱",
+    "discovered": false
+  },
+  {
+    "text": "Snow",
+    "emoji": "❄️",
+    "discovered": false
+  },
+  {
+    "text": "Dune",
+    "emoji": "🌵",
+    "discovered": false
+  },
+  {
+    "text": "Leaf",
+    "emoji": "🍃",
+    "discovered": false
+  },
+  {
+    "text": "Flower",
+    "emoji": "🌸",
+    "discovered": false
+  },
+  {
+    "text": "Surfing",
+    "emoji": "🏄",
+    "discovered": false
+  },
+  {
+    "text": "Kite",
+    "emoji": "🪁",
+    "discovered": false
+  },
+  {
+    "text": "Allergy",
+    "emoji": "🤧",
+    "discovered": false
+  },
+  {
+    "text": "Aeolus",
+    "emoji": "🌬️",
+    "discovered": false
+  },
+  {
+    "text": "Clay",
+    "emoji": "🏺",
+    "discovered": false
+  },
+  {
+    "text": "Tractor",
+    "emoji": "🚜",
+    "discovered": false
+  },
+  {
+    "text": "Soil",
+    "emoji": "🌱",
+    "discovered": false
+  },
+  {
+    "text": "Landslide",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Desert",
+    "emoji": "🏜️",
+    "discovered": false
+  },
+  {
+    "text": "Forest",
+    "emoji": "🌲",
+    "discovered": false
+  },
+  {
+    "text": "Moon",
+    "emoji": "🌙",
+    "discovered": false
+  },
+  {
+    "text": "Continent",
+    "emoji": "🌎",
+    "discovered": false
+  },
+  {
+    "text": "Land",
+    "emoji": "🌄",
+    "discovered": false
+  },
+  {
+    "text": "Teapot",
+    "emoji": "🍵",
+    "discovered": false
+  },
+  {
+    "text": "Sea",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Lighthouse",
+    "emoji": "🌅",
+    "discovered": false
+  },
+  {
+    "text": "Boat",
+    "emoji": "🚤",
+    "discovered": false
+  },
+  {
+    "text": "Wish",
+    "emoji": "🌠",
+    "discovered": false
+  },
+  {
+    "text": "Iceberg",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Lotus",
+    "emoji": "🌺",
+    "discovered": false
+  },
+  {
+    "text": "Titanic",
+    "emoji": "🚢",
+    "discovered": false
+  },
+  {
+    "text": "Geysir",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Train",
+    "emoji": "🚂",
+    "discovered": false
+  },
+  {
+    "text": "Geyser",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Steampunk",
+    "emoji": "🕯️",
+    "discovered": false
+  },
+  {
+    "text": "Steamboat",
+    "emoji": "🛳️",
+    "discovered": false
+  },
+  {
+    "text": "Surfboard",
+    "emoji": "🏄",
+    "discovered": false
+  },
+  {
+    "text": "Mermaid",
+    "emoji": "🧜‍♀️",
+    "discovered": false
+  },
+  {
+    "text": "Surfer",
+    "emoji": "🏄",
+    "discovered": false
+  },
+  {
+    "text": "Coral",
+    "emoji": "🐠",
+    "discovered": false
+  },
+  {
+    "text": "Venus Flytrap",
+    "emoji": "🪲",
+    "discovered": false
+  },
+  {
+    "text": "Mushroom",
+    "emoji": "🍄",
+    "discovered": false
+  },
+  {
+    "text": "Fossil",
+    "emoji": "🦴",
+    "discovered": false
+  },
+  {
+    "text": "Car",
+    "emoji": "🚗",
+    "discovered": false
+  },
+  {
+    "text": "Tobacco",
+    "emoji": "🚬",
+    "discovered": false
+  },
+  {
+    "text": "Weed",
+    "emoji": "🌿",
+    "discovered": false
+  },
+  {
+    "text": "Cactus",
+    "emoji": "🌵",
+    "discovered": false
+  },
+  {
+    "text": "Snowman",
+    "emoji": "☃️",
+    "discovered": false
+  },
+  {
+    "text": "Palm Tree",
+    "emoji": "🌴",
+    "discovered": false
+  },
+  {
+    "text": "Earthquake",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Fireworks",
+    "emoji": "🎆",
+    "discovered": false
+  },
+  {
+    "text": "Hawaii",
+    "emoji": "🌺",
+    "discovered": false
+  },
+  {
+    "text": "Iceland",
+    "emoji": "🇮🇸",
+    "discovered": false
+  },
+  {
+    "text": "Yellowstone",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Statue",
+    "emoji": "🗽",
+    "discovered": false
+  },
+  {
+    "text": "Thunder",
+    "emoji": "⛈️",
+    "discovered": false
+  },
+  {
+    "text": "Nothing",
+    "emoji": "",
+    "discovered": false
+  },
+  {
+    "text": "Prayer",
+    "emoji": "🙏",
+    "discovered": false
+  },
+  {
+    "text": "Bee",
+    "emoji": "🐝",
+    "discovered": false
+  },
+  {
+    "text": "Obsidian",
+    "emoji": "🔪",
+    "discovered": false
+  },
+  {
+    "text": "Destruction",
+    "emoji": "💥",
+    "discovered": false
+  },
+  {
+    "text": "Cyclone",
+    "emoji": "🌀",
+    "discovered": false
+  },
+  {
+    "text": "Blizzard",
+    "emoji": "❄️",
+    "discovered": false
+  },
+  {
+    "text": "Wood",
+    "emoji": "🌲",
+    "discovered": false
+  },
+  {
+    "text": "Teacup",
+    "emoji": "🍵",
+    "discovered": false
+  },
+  {
+    "text": "Dust Devil",
+    "emoji": "🌪️",
+    "discovered": false
+  },
+  {
+    "text": "Smog",
+    "emoji": "🌫️",
+    "discovered": false
+  },
+  {
+    "text": "Vacuum",
+    "emoji": "🧹",
+    "discovered": false
+  },
+  {
+    "text": "Cinder",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Angel",
+    "emoji": "👼",
+    "discovered": false
+  },
+  {
+    "text": "Troll",
+    "emoji": "👹",
+    "discovered": false
+  },
+  {
+    "text": "Tea Bag",
+    "emoji": "🍵",
+    "discovered": false
+  },
+  {
+    "text": "Mountain Dew",
+    "emoji": "💧",
+    "discovered": false
+  },
+  {
+    "text": "Pyramid",
+    "emoji": "🗿",
+    "discovered": false
+  },
+  {
+    "text": "Norway",
+    "emoji": "🇳🇴",
+    "discovered": false
+  },
+  {
+    "text": "Buddha",
+    "emoji": "🧘‍♂️",
+    "discovered": false
+  },
+  {
+    "text": "Submarine",
+    "emoji": "🚤",
+    "discovered": false
+  },
+  {
+    "text": "Salt",
+    "emoji": "🧂",
+    "discovered": false
+  },
+  {
+    "text": "Atlantis",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Rainbow",
+    "emoji": "🌈",
+    "discovered": false
+  },
+  {
+    "text": "Jet",
+    "emoji": "✈️",
+    "discovered": false
+  },
+  {
+    "text": "Sky",
+    "emoji": "🌌",
+    "discovered": false
+  },
+  {
+    "text": "Mudslide",
+    "emoji": "🌋",
+    "discovered": false
+  },
+  {
+    "text": "Disaster",
+    "emoji": "🌪️",
+    "discovered": false
+  },
+  {
+    "text": "Poseidon",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Bog",
+    "emoji": "💩",
+    "discovered": false
+  },
+  {
+    "text": "Ghost",
+    "emoji": "👻",
+    "discovered": false
+  },
+  {
+    "text": "Quagmire",
+    "emoji": "💩",
+    "discovered": false
+  },
+  {
+    "text": "Frog",
+    "emoji": "🐸",
+    "discovered": false
+  },
+  {
+    "text": "Mangrove",
+    "emoji": "🌱",
+    "discovered": false
+  },
+  {
+    "text": "Loch Ness",
+    "emoji": "🐊",
+    "discovered": false
+  },
+  {
+    "text": "Lagoon",
+    "emoji": "🌊",
+    "discovered": false
+  },
+  {
+    "text": "Mosquito",
+    "emoji": "🦟",
+    "discovered": false
+  },
+  {
+    "text": "Alligator",
+    "emoji": "🐊",
+    "discovered": false
+  },
+  {
+    "text": "Fairy",
+    "emoji": "🧚",
+    "discovered": false
+  },
+  {
+    "text": "Venus",
+    "emoji": "♀️",
+    "discovered": false
+  },
+  {
+    "text": "Boulder",
+    "emoji": "🪨",
+    "discovered": false
+  },
+  {
+    "text": "Steamroller",
+    "emoji": "🚂",
+    "discovered": false
+  },
+  {
+    "text": "Meteor",
+    "emoji": "💫",
+    "discovered": false
+  },
+  {
+    "text": "Sphinx",
+    "emoji": "🐫",
+    "discovered": false
+  },
+  {
+    "text": "Amber",
+    "emoji": "🌾",
+    "discovered": false
+  },
+  {
+    "text": "Mudweed",
+    "emoji": "🌿",
+    "discovered": false
+  },
+  {
+    "text": "Rocket",
+    "emoji": "🚀",
+    "discovered": false
+  },
+  {
+    "text": "Helicopter",
+    "emoji": "🚁",
+    "discovered": false
+  },
+  {
+    "text": "Snowmobile",
+    "emoji": "🏂",
+    "discovered": false
+  },
+  {
+    "text": "Sandbox",
+    "emoji": "🏖️",
+    "discovered": false
+  },
+  {
+    "text": "Saturn",
+    "emoji": "🪐",
+    "discovered": false
+  },
+  {
+    "text": "Pencil",
+    "emoji": "✏️",
+    "discovered": false
+  },
+  {
+    "text": "Matcha",
+    "emoji": "🍵",
+    "discovered": false
+  },
+  {
+    "text": "Cough",
+    "emoji": "🤧",
+    "discovered": false
+  },
+  {
+    "text": "Shipwreck",
+    "emoji": "🚢",
+    "discovered": false
+  },
+  {
+    "text": "Tempest",
+    "emoji": "🌪️",
+    "discovered": false
+  },
+  {
+    "text": "Dandelion Patch",
+    "emoji": "🌼",
+    "discovered": false
+  },
+  {
+    "text": "Sandcastle",
+    "emoji": "🏖️",
+    "discovered": false
+  },
+  {
+    "text": "Viking",
+    "emoji": "🛡️",
+    "discovered": false
+  },
+  {
+    "text": "Dust Bunny",
+    "emoji": "🐰",
+    "discovered": false
+  },
+  {
+    "text": "Mars",
+    "emoji": "🪐",
+    "discovered": false
+  },
+  {
+    "text": "Snowstorm",
+    "emoji": "❄️",
+    "discovered": false
+  },
+  {
+    "text": "Genie",
+    "emoji": "🧞‍♂️",
+    "discovered": false
+  },
+  {
+    "text": "Dust Bowl",
+    "emoji": "🌪️",
+    "discovered": false
+  },
+  {
+    "text": "Snowball",
+    "emoji": "❄️",
+    "discovered": false
+  },
+  {
+    "text": "Snowflake",
+    "emoji": "❄️",
+    "discovered": false
+  },
+  {
+    "text": "Sandwich",
+    "emoji": "🥪",
+    "discovered": false
+  },
+  {
+    "text": "Snake",
+    "emoji": "🐍",
+    "discovered": false
+  },
+  {
+    "text": "Palm",
+    "emoji": "🌴",
+    "discovered": false
+  },
+  {
+    "text": "Pine",
+    "emoji": "🌲",
+    "discovered": false
+  },
+  {
+    "text": "Tumbleweed",
+    "emoji": "🌵",
+    "discovered": false
+  },
+  {
+    "text": "Star",
+    "emoji": "⭐️",
+    "discovered": false
+  },
+  {
+    "text": "Plantea",
+    "emoji": "🌱",
+    "discovered": false
+  },
+  {
+    "text": "Nymph",
+    "emoji": "🧚",
+    "discovered": false
+  },
+  {
+    "text": "Himalayas",
+    "emoji": "🏔️",
+    "discovered": false
+  },
+  {
+    "text": "Glacier",
+    "emoji": "❄️",
+    "discovered": false
+  },
+  {
+    "text": "Tea Storm",
+    "emoji": "🌪️",
+    "discovered": false
+  },
+  {
+    "text": "Tea Party",
+    "emoji": "🍵",
+    "discovered": false
+  },
+  {
+    "text": "Sandalwood",
+    "emoji": "🪨",
+    "discovered": false
+  },
+  {
+    "text": "Hay Fever",
+    "emoji": "🌾",
+    "discovered": false
+  },
+  {
+    "text": "Sand Dunes",
+    "emoji": "🏜️",
+    "discovered": false
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "main": "src/index.ts",
+  "dependencies": {
+    "rambda": "^8.5.0",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17"
+  }
+}
